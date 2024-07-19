@@ -18,7 +18,7 @@ To accomplish this, I developed a web scraping script using Python. I utilised t
 
 ---
 #### 📊 Results: 
-As a result, I successfully extracted a comprehensive dataset of data book information from Amazon.co.uk. This dataset is now ready for further transformation and analysis, enabling deeper insights into data book trends and patterns.
+As a result, I successfully extracted a comprehensive dataset consisting of 310 data books from Amazon.co.uk. This dataset is now ready for further transformation and analysis, enabling deeper insights into data book trends and patterns.
 
 ![unclean-DataFrame](https://github.com/user-attachments/assets/1eacab1c-4a6b-4eaa-b768-d1f6197effcb)
 
