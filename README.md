@@ -34,3 +34,4 @@ As part of the ETL process, the extraction phase was a success. Next, the focus 
 
 ![image](https://github.com/user-attachments/assets/af1a1310-952b-4018-a766-33d9535baa89)
 
+ **View Transformation Phase**: If you are interested in viewing the transformation pahse of the project, you can find it [here](https://github.com/TendaiPhikiso/Amazon_web_Scraping_Transformation).
