@@ -1,6 +1,9 @@
-# Web Scraping Amazon Data Books using Python 
-![image](https://github.com/user-attachments/assets/47b8fe7d-a68f-4e9e-bc03-7001b8d56b2f)
 
+<h1 align="center"> Web Scraping Amazon Data Books using Python - Extract Phase </h1>
+
+<p align="center">
+<img  src="https://github.com/user-attachments/assets/47b8fe7d-a68f-4e9e-bc03-7001b8d56b2f">
+</p>
 
 #### 📊 Situation: 
  
